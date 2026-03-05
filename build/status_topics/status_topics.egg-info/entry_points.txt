@@ -1,0 +1,5 @@
+[console_scripts]
+sys_status_pub = status_topics.sys_status_pub:main
+sys_status_sub = status_topics.sys_status_sub:main
+sys_status_trans = status_topics.sys_status_trans:main
+
