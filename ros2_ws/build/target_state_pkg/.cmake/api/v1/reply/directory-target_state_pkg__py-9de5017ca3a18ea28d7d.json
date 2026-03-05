@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "target_state_pkg__py",
+		"source" : "/home/wu/ros2_ws/build/target_state_pkg/target_state_pkg__py"
+	}
+}

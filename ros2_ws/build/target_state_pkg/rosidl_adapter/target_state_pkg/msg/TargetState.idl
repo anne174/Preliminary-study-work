@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from target_state_pkg/msg/TargetState.msg
+// generated code does not contain a copyright notice
+
+
+module target_state_pkg {
+  module msg {
+    struct TargetState {
+      double x;
+
+      double y;
+    };
+  };
+};

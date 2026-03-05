@@ -1,0 +1,6 @@
+{
+  "package_name": "target_state_pkg",
+  "non_idl_tuples": [
+    "/home/wu/ros2_ws/src/target_state_pkg:msg/TargetState.msg"
+  ]
+}
